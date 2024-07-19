@@ -1,0 +1,17 @@
+{
+  "name": "tsys",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "backend:dev": "pnpm --dir ./backend start:dev",
+    "frontend:dev": "pnpm --dir ./frontend start",
+    "backend": "pnpm --dir ./backend",
+    "frontend": "pnpm --dir ./frontend",
+    "// \"prepare\": \"husky\"": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "private": true
+}
